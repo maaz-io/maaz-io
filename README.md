@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/muhammad-maaz" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammadmaaz-409704377" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;

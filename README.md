@@ -1,34 +1,340 @@
-<h1 align="center">Hi 👋, I'm Muhammad Maaz</h1>
-<h3 align="center">I am a Software Engineer with a specialized focus on AI-driven automation and modern web development. I leverage advanced AI tools and workflows to design and build high-performance, visually immersive digital experiences. My expertise lies in developing cutting-edge websites — including fully interactive 3D animated platforms, product-focused websites optimized for engagement and conversion, and sleek, professional portfolio sites tailored for personal branding.</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maaz-io" alt="maaz-io" /></a> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-- 🔭 I’m currently working on [WebOps](https://webops-theta.vercel.app/)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Muhammad+Maaz;AI+%26+Full-Stack+Developer;RAG+%26+AI+Agent+Engineer;Freelance+Web+Developer;Software+Engineering+%40+NUST" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **DSA , JAVASCRIPT**
+<br/>
 
-- 👨‍💻 All of my projects are available at [https://maaz-io.github.io/portfolio/](https://maaz-io.github.io/portfolio/)
-
-- 💬 Ask me about **C++ , Python , CSS , HTMLA**
-
-- 📫 How to reach me **maazz.dev@gmail.com**
-
-- 📄 Know about my experiences [https://maazresume.vercel.app/](https://maazresume.vercel.app/)
-
-- ⚡ Fun fact **⚡ **Fun Fact:** I design user interfaces like physical architecture—because a digital space should feel as solid and immersive as a real one. If it doesn't have that perfect fluid motion, it's not finished.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad maaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad maaz" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad maaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad maaz" height="30" width="40" /></a>
-<a href="https://instagram.com/maaz._zia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maaz._zia" height="30" width="40" /></a>
+<p>
+  <img src="https://img.shields.io/badge/B.S._Software_Engineering-NUST_Islamabad-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Year-First_Year-10B981?style=flat-square"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Rawalpindi,_Pakistan-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.erlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nim-lang.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nim-lang/nim-lang-icon.svg" alt="nim" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://openresty.org/" target="_blank" rel="noreferrer"> <img src="https://openresty.org/images/logo.png" alt="openresty" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://lucene.apache.org/solr/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_solr/apache_solr-icon.svg" alt="solr" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p>
+  <a href="https://maaztech.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/muhammad-maaz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:maazz.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach_Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/maaz-io" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maaz-io&show_icons=true&locale=en&layout=compact" alt="maaz-io" /></p>
+<img src="https://komarev.com/ghpvc/?username=maaz-io&color=7C3AED&style=flat-square&label=Profile+Views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/maaz-io?style=flat-square&color=6366F1&label=Followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/maaz-io?style=flat-square&color=A78BFA&label=Stars"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maaz-io&show_icons=true&locale=en" alt="maaz-io" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maaz-io&" alt="maaz-io" /></p>
+<br/>
+
+---
+
+## About
+
+I am a **Software Engineering undergraduate at NUST** and a **Freelance AI & Full-Stack Developer** with approximately one year of hands-on experience building and deploying production-grade systems. I work across the full spectrum — from high-conversion landing pages to immersive 3D animated experiences — and independently engineer RAG-based local AI analysis models.
+
+My work spans client-facing web products, autonomous AI agent systems, and local LLM pipelines — all built from requirements gathering through to live deployment. I combine strong technical execution with clear client communication to ship things that actually work.
+
+**Open to:** Software Engineering Internships · AI/ML Developer Roles · Full-Stack Freelance Projects · Full-Time Roles
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark"/>
+</p>
+
+### Frontend & 3D
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs&theme=dark"/>
+</p>
+
+### Backend & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+</p>
+
+### AI / ML & Tooling
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker&theme=dark"/>
+</p>
+
+---
+
+## AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|---|---|
+| **RAG Pipelines** | Advanced | Local document analysis, vector embeddings, semantic search |
+| **LLM Integration** | Advanced | LangChain, LangGraph, Ollama, FAISS, LLM Prompting |
+| **AI Agents** | Experienced | CrewAI, OpenAI API, tool calling, multi-step reasoning |
+| **Prompt Engineering** | Advanced | Multi-modal AI, chatbot workflow automation |
+| **Generative AI** | Certified | Cisco Networking Academy — Modern AI & Generative AI |
+| **Cybersecurity** | Certified | Cisco Networking Academy — Intro to Cybersecurity |
+
+---
+
+## Featured Projects
+
+<details>
+<summary><b>3D Animated Client Website — Immersive Web Experience</b></summary>
+
+<br/>
+
+> Production-ready 3D animated website for a client, built with smooth WebGL rendering and scroll-triggered animations.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Three.js · GSAP · HTML/CSS · JavaScript |
+| **Delivery** | Client project — live in production |
+| **Performance** | Delivered within client-defined timeline |
+| **Impact** | Measurable improvement in user engagement vs previous static site |
+
+**What it does:** Delivers a fully immersive browser experience using WebGL-powered 3D rendering and scroll-driven animations. Built end-to-end from client brief to deployment, focused on visual storytelling and engagement.
+
+</details>
+
+<details>
+<summary><b>RAG-Based Local Document Analysis Model — Private AI Pipeline</b></summary>
+
+<br/>
+
+> Fully local Retrieval-Augmented Generation pipeline enabling clients to query private document collections without any data leaving their machine.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python · LangChain · Ollama · FAISS · LLM |
+| **Privacy** | 100% local — no external API calls |
+| **Scale** | Vector embeddings over large document collections |
+| **Performance** | Sub-second response latency on standard hardware |
+
+**What it does:** Parses and indexes private documents into a local vector store, then runs semantic search and LLM-powered Q&A entirely on-device. Context-accurate answers on test queries with no cloud dependency.
+
+</details>
+
+<details>
+<summary><b>Autonomous AI Agent System — Multi-Agent Orchestration</b></summary>
+
+<br/>
+
+> Multi-agent orchestration system that executes research, summarization, and reporting workflows autonomously.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python · CrewAI / LangGraph · OpenAI API · Tool Calling |
+| **Efficiency** | Significant reduction in manual task time per cycle |
+| **Reliability** | Coherent multi-step reasoning across sequential actions |
+
+**What it does:** Coordinates multiple specialized AI agents through a structured pipeline. Each agent handles a defined role — research, synthesis, output — with tool-calling and shared memory ensuring coherent end-to-end execution.
+
+</details>
+
+---
+
+## Experience
+
+### Freelance Web & AI Developer — Independent
+
+`2025 – Present · Remote, Pakistan`
+
+Building and shipping production products for clients across web, 3D, and AI domains. Full ownership of every engagement — from scoping and design to development and live deployment.
+
+**Scope of work:**
+- Engineered and deployed client-facing websites: static landing pages, dynamic multi-page apps, and 3D animated interactive experiences
+- Architected and shipped RAG-based local AI analysis models enabling private document querying with no cloud dependency
+- Built and configured autonomous AI agents executing multi-step research, summarization, and reporting workflows
+- Managed full end-to-end project delivery across all client engagements
+
+`Python` `JavaScript` `React` `Next.js` `Three.js` `LangChain` `CrewAI` `Ollama` `FAISS` `Node.js` `Vercel`
+
+---
+
+### Public Speaking & Debate Participant — APSAC Fort Road
+
+`2023 – 2025 · Rawalpindi, Pakistan`
+
+Competed in structured debate and public speaking at college-wide level, consistently recognized for clarity and argument structure.
+
+- Delivered structured speeches to college-wide audiences across multiple competitive rounds
+- Refined persuasive framing, professional tone, and real-time adaptability under live audience questioning
+
+---
+
+## Education
+
+### National University of Sciences and Technology (NUST)
+
+`2026 – Present · Islamabad, Pakistan`
+
+**Bachelor of Science — Software Engineering**
+
+- Pursuing a rigorous four-year program covering data structures, OOP, systems design, and software project management
+- Building proficiency in Python, logic, and computational thinking through structured foundational coursework
+
+---
+
+### APSAC Fort Road
+
+`2023 – 2025 · Rawalpindi, Pakistan`
+
+**F.Sc Pre-Medical — FBISE**
+
+- Passed with distinction in HSSC Annual Examination 2025 — consistent academic excellence across Physics, Chemistry, and Biology
+- Developed rigorous analytical and evidence-based reasoning skills through a demanding science curriculum
+
+---
+
+## Certifications
+
+<div align="center">
+
+**Cisco Networking Academy**
+
+![Cisco GenAI](https://img.shields.io/badge/Cisco-Introduction_to_Modern_AI_%26_Generative_AI-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+&nbsp;
+![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+*Issued: March 2026 · Validated by M/o Federal Educational and Professional Training*
+
+</div>
+
+---
+
+## Skills
+
+<div align="center">
+
+| Category | Skills |
+|---|---|
+| **Languages** | Python, JavaScript, HTML, CSS, SQL (Basic) |
+| **Web Frameworks & Libraries** | React, Next.js, Node.js, Express.js, Three.js, GSAP |
+| **AI & ML** | LangChain, LangGraph, CrewAI, RAG Pipelines, Ollama, FAISS, LLM Prompting, AI Agents |
+| **Developer Tools** | Git, GitHub, VS Code, Vercel, Netlify, Docker (Basic) |
+| **Soft Skills** | Client Communication, Project Delivery, Problem-Solving, Stress Management, Active Listening |
+| **Languages Spoken** | English (Professional), Urdu (Native) |
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=maaz-io&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=maaz-io&theme=tokyonight&border_radius=10&hide_border=false" />
+
+<br/><br/>
+
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maaz-io&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
+
+</div>
+
+---
+
+## GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=maaz-io&theme=tokyonight&no-frame=true&margin-w=12&row=2&column=4"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=maaz-io&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+---
+
+## Current Focus
+
+```yaml
+Learning:
+  - System Design & Software Architecture
+  - Advanced Backend Engineering
+  - Deep LLM internals & fine-tuning
+
+Building:
+  - AI-powered products for real clients
+  - Local RAG pipelines with no cloud dependency
+  - Immersive 3D web experiences
+
+Exploring:
+  - Autonomous multi-agent systems
+  - LangGraph for complex agent workflows
+  - Next.js full-stack applications
+
+Open To:
+  - Software Engineering Internships
+  - AI / ML Developer Roles
+  - Full-Stack Freelance Projects
+  - Full-Time Roles at product-first companies
+```
+
+---
+
+## Connect
+
+<div align="center">
+
+<a href="mailto:maazz.dev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-maazz.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<a href="tel:+923364712888">
+  <img src="https://img.shields.io/badge/Phone-+92--336--4712888-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/maaz-io" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-maaz--io-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://maaztech.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-maaztech.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*Building at the intersection of AI, full-stack engineering, and immersive web.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+</div>

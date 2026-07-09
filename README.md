@@ -46,7 +46,7 @@
 
 ## About
 
-I am a **Software Engineering undergraduate at NUST** and a **Freelance AI & Full-Stack Developer** with approximately one year of hands-on experience building and deploying production-grade systems. I work across the full spectrum — from high-conversion landing pages to immersive 3D animated experiences — and independently engineer RAG-based local AI analysis models.
+I am a **Artificial Intelligence undergraduate at COMSATS** and a **Freelance AI & Full-Stack Developer** with approximately one year of hands-on experience building and deploying production-grade systems. I work across the full spectrum — from high-conversion landing pages to immersive 3D animated experiences — and independently engineer RAG-based local AI analysis models.
 
 My work spans client-facing web products, autonomous AI agent systems, and local LLM pipelines — all built from requirements gathering through to live deployment. I combine strong technical execution with clear client communication to ship things that actually work.
 

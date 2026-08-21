@@ -69,6 +69,7 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 | 🌐 [WebOps Limited](https://github.com/maaz-io/WebOps-Limited) | Web platform built for a web development company. |
 | 🎓 [MindMonarchs](https://github.com/maaz-io/MindMonarchs) | Educational platform website with an integrated AI assistant. |
 | ⌚ [Kronos Watches](https://github.com/maaz-io/KronosWatches-) | E-commerce platform for watches, with full inventory management. |
+| 🌐 [Projects](https://github.com/maaz-io/Projects) | Projects & Engineering Portfolio. |
 | 📞 [Nexus Sales Agent](https://github.com/maaz-io/Nexus-Sales-Outbound-Agent-) | Outbound AI sales agent that handles multiple bulk outbound calls to potential clients. |
 | ☎️ [AquaRestore Agent](https://github.com/maaz-io/AquaRestore-AI-) | Inbound AI agent for handling incoming customer calls. |
 | 🏠 [Arcwayy](https://github.com/maaz-io/Arcwayy) | Website for a modern home builders company. |

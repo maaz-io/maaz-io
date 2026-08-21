@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Muhammad+Maaz;AI+%26+Full-Stack+Developer;RAG+%26+AI+Agent+Engineer;Freelance+Web+Developer;Software+Engineering+%40+NUST" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Muhammad+Maaz;AI+%26+Full-Stack+Developer;RAG+%26+AI+Agent+Engineer;Freelance+Web+Developer;BS+Artificial+Intelligence+%40+COMSATS" alt="Typing SVG" />
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/B.S._Software_Engineering-NUST_Islamabad-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/B.S._Artificial_Intelligence-COMSATS-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Year-First_Year-10B981?style=flat-square"/>
   &nbsp;
@@ -54,6 +54,21 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| 🌐 [WebOps Limited](https://github.com/maaz-io/WebOps-Limited) | Web platform built for a web development company. |
+| 🎓 [MindMonarchs](https://github.com/maaz-io/MindMonarchs) | Educational platform website with an integrated AI assistant. |
+| ⌚ [Kronos Watches](https://github.com/maaz-io/KronosWatches-) | E-commerce platform for watches, with full inventory management. |
+| 📞 [Nexus Sales Agent](https://github.com/maaz-io/Nexus-Sales-Outbound-Agent-) | Outbound AI sales agent that handles multiple bulk outbound calls to potential clients. |
+| ☎️ [AquaRestore Agent](https://github.com/maaz-io/AquaRestore-AI-) | Inbound AI agent for handling incoming customer calls. |
+| 🏠 [Arcwayy](https://github.com/maaz-io/Arcwayy) | Website for a modern home builders company. |
+| 💼 [Portfolio — v1](https://github.com/maaz-io/Portfolio-Maaz) | Personal portfolio website. |
+| 💼 [Portfolio — v2](https://github.com/maaz-io/Portfolio.Maaz) | Another personal portfolio website build. |
+
+---
+
 ## Tech Stack
 
 ### Languages
@@ -95,7 +110,7 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 
 ---
 
-## Featured Projects
+## Featured Case Studies
 
 <details>
 <summary><b>3D Animated Client Website — Immersive Web Experience</b></summary>
@@ -154,6 +169,19 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 
 ## Experience
 
+### Software Engineering & AI Intern — N5S Solutions
+
+`Lahore, Pakistan (Remote) · Present`
+
+Remote internship focused on software engineering and applied AI development.
+
+- Built the **Nexus Sales Agent** project during this internship — an outbound AI sales agent handling bulk outbound calls to potential clients
+- Currently working on N5S Solutions' own company website
+
+`Python` `AI Agents` `Full-Stack Development`
+
+---
+
 ### Freelance Web & AI Developer — Independent
 
 `2025 – Present · Remote, Pakistan`
@@ -170,27 +198,16 @@ Building and shipping production products for clients across web, 3D, and AI dom
 
 ---
 
-### Public Speaking & Debate Participant — APSAC Fort Road
-
-`2023 – 2025 · Rawalpindi, Pakistan`
-
-Competed in structured debate and public speaking at college-wide level, consistently recognized for clarity and argument structure.
-
-- Delivered structured speeches to college-wide audiences across multiple competitive rounds
-- Refined persuasive framing, professional tone, and real-time adaptability under live audience questioning
-
----
-
 ## Education
 
-### National University of Sciences and Technology (NUST)
+### COMSATS University Islamabad
 
-`2026 – Present · Islamabad, Pakistan`
+`2026 – Present · Pakistan`
 
-**Bachelor of Science — Software Engineering**
+**Bachelor of Science — Artificial Intelligence**
 
-- Pursuing a rigorous four-year program covering data structures, OOP, systems design, and software project management
-- Building proficiency in Python, logic, and computational thinking through structured foundational coursework
+- Pursuing a rigorous four-year program covering AI/ML foundations, data structures, OOP, and systems design
+- Building proficiency in Python, applied AI, and computational thinking through structured foundational coursework
 
 ---
 
@@ -216,6 +233,12 @@ Competed in structured debate and public speaking at college-wide level, consist
 ![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
 *Issued: March 2026 · Validated by M/o Federal Educational and Professional Training*
+
+**Forage — Walmart Global Tech**
+
+![Walmart Forage](https://img.shields.io/badge/Forage-Advanced_Software_Engineering_Job_Simulation-0071CE?style=flat-square&logo=walmart&logoColor=white)
+
+*Certificate of Completion · Issued: August 2, 2026*
 
 </div>
 

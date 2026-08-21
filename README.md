@@ -73,7 +73,7 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 | 📞 [Nexus Sales Agent](https://github.com/maaz-io/Nexus-Sales-Outbound-Agent-) | Outbound AI sales agent that handles multiple bulk outbound calls to potential clients. |
 | ☎️ [AquaRestore Agent](https://github.com/maaz-io/AquaRestore-AI-) | Inbound AI agent for handling incoming customer calls. |
 | 🩺 [Care-Pilot](https://github.com/maaz-io/Care-Pilot) | A react mobile app for tracking medicines and doctor appointments for your whole family.. |
-| 🩺 [BizLedger](http://github.com/maaz-io/BizLedger) |BizLedger — a modern business finance and ledger management platform designed to help businesses organize financial records, monitor transactions, and manage essential accounting workflows through a centralized digital interface.|
+| 📊 [BizLedger](http://github.com/maaz-io/BizLedger) |BizLedger — a modern business finance and ledger management platform designed to help businesses organize financial records.|
 | 🏠 [Arcwayy](https://github.com/maaz-io/Arcwayy) | Website for a modern home builders company. |
 | 💼 [Portfolio — v1](https://github.com/maaz-io/Portfolio-Maaz) | Personal portfolio website. |
 | 💼 [Portfolio — v2](https://github.com/maaz-io/Portfolio.Maaz) | Another personal portfolio website build. |

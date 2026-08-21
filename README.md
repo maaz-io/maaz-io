@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Muhammad+Maaz;AI+%26+Full-Stack+Developer;RAG+%26+AI+Agent+Engineer;Freelance+Web+Developer;BS+Artificial+Intelligence+%40+COMSATS" alt="Typing SVG" />
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=900&color=10B981&center=true&vCenter=true&width=700&lines=%F0%9F%9F%A2+Available+for+freelance+work;%F0%9F%93%8D+Based+in+Rawalpindi%2C+Pakistan;%F0%9F%A4%96+Currently+building+AI+agents" alt="Status Typing SVG" />
+
 <br/>
 
 <p>
@@ -52,9 +54,15 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 
 **Open to:** Software Engineering Internships · AI/ML Developer Roles · Full-Stack Freelance Projects · Full-Time Roles
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=20&section=header" width="100%"/>
+</div>
 
 ## 🚀 Featured Projects
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+Sales+%26+Support+Agents;E-Commerce+Platforms;Educational+%26+SaaS+Products;Client+Portfolios+%26+Landing+Pages" alt="Category Typing SVG" />
+</div>
 
 | Project | Description |
 |---|---|
@@ -68,7 +76,9 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 | 💼 [Portfolio — v2](https://github.com/maaz-io/Portfolio.Maaz) | Another personal portfolio website build. |
 | 🌐 [LinkedIn Scrapper](https://github.com/maaz-io/LinkedIn-Scrapper) | AI-Powered Lead Extraction Platform. |
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=20&section=header" width="100%"/>
+</div>
 
 ## Tech Stack
 
@@ -109,7 +119,9 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 | **Generative AI** | Certified | Cisco Networking Academy — Modern AI & Generative AI |
 | **Cybersecurity** | Certified | Cisco Networking Academy — Intro to Cybersecurity |
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=20&section=header" width="100%"/>
+</div>
 
 ## Featured Case Studies
 
@@ -166,7 +178,9 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 
 </details>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=20&section=header" width="100%"/>
+</div>
 
 ## Experience
 
@@ -221,7 +235,9 @@ Building and shipping production products for clients across web, 3D, and AI dom
 - Passed with distinction in HSSC Annual Examination 2025 — consistent academic excellence across Physics, Chemistry, and Biology
 - Developed rigorous analytical and evidence-based reasoning skills through a demanding science curriculum
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=20&section=header" width="100%"/>
+</div>
 
 ## Certifications
 
@@ -260,7 +276,9 @@ Building and shipping production products for clients across web, 3D, and AI dom
 
 </div>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=20&section=header" width="100%"/>
+</div>
 
 ## GitHub Analytics
 
@@ -329,11 +347,17 @@ Open To:
   - Full-Time Roles at product-first companies
 ```
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=20&section=header" width="100%"/>
+</div>
 
 ## Connect
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=800&color=6366F1&center=true&vCenter=true&width=550&lines=Ask+me+about+AI+Agents;Ask+me+about+RAG+Pipelines;Ask+me+about+Next.js;Let%27s+build+something!" alt="Ask Me Typing SVG" />
+
+<br/><br/>
 
 <a href="mailto:maazz.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-maazz.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>

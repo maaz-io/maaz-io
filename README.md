@@ -64,22 +64,30 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+Sales+%26+Support+Agents;E-Commerce+Platforms;Educational+%26+SaaS+Products;Client+Portfolios+%26+Landing+Pages" alt="Category Typing SVG" />
 </div>
 
-| Project | Description |
-|---|---|
-| ✧ [Burak](https://github.com/maaz-io/Burak-) | An Android-based personal AI assistant powered by local AI models, designed to perform everyday tasks through natural voice interaction. |
-| 🌐 [WebOps Limited](https://github.com/maaz-io/WebOps-Limited) | Web platform built for a web development company. |
-| ☁️ [ClinKit](https://clinkit.webopslimited.site) | A modern, full-stack cloud-based clinic management platform designed to streamline patient management, appointments, billing, pharmacy inventory, laboratory workflows,. |
-| 🎓 [MindMonarchs](https://github.com/maaz-io/MindMonarchs) | Educational platform website with an integrated AI assistant. |
-| ⌚ [Kronos Watches](https://github.com/maaz-io/KronosWatches-) | E-commerce platform for watches, with full inventory management. |
-| 🌐 [Projects](https://github.com/maaz-io/Projects) | Projects & Engineering Portfolio. |
-| 📞 [Nexus Sales Agent](https://github.com/maaz-io/Nexus-Sales-Outbound-Agent-) | Outbound AI sales agent that handles multiple bulk outbound calls to potential clients. |
-| ☎️ [AquaRestore Agent](https://github.com/maaz-io/AquaRestore-AI-) | Inbound AI agent for handling incoming customer calls. |
-| 🩺 [Care-Pilot](https://github.com/maaz-io/Care-Pilot) | A react mobile app for tracking medicines and doctor appointments for your whole family.. |
-| 📊 [BizLedger](http://github.com/maaz-io/BizLedger) |BizLedger — a modern business finance and ledger management platform designed to help businesses organize financial records.|
-| 🏠 [Arcwayy](https://github.com/maaz-io/Arcwayy) | Website for a modern home builders company. |
-| 💼 [Portfolio — v1](https://github.com/maaz-io/Portfolio-Maaz) | Personal portfolio website. |
-| 💼 [Portfolio — v2](https://github.com/maaz-io/Portfolio.Maaz) | Another personal portfolio website build. |
-| 🌐 [LinkedIn Scrapper](https://github.com/maaz-io/LinkedIn-Scrapper) | AI-Powered Lead Extraction Platform. |
+#### 🤖 AI Agents & Automation
+
+|  |  |  |
+|:---:|:---:|:---:|
+| **[Nexus Sales Agent](https://github.com/maaz-io/Nexus-Sales-Outbound-Agent-)**<br><sub>Multi-agent outbound AI calling</sub> | **[AquaRestore Agent](https://github.com/maaz-io/AquaRestore-AI-)**<br><sub>Inbound AI voice agent</sub> | **[LinkedIn Scrapper](https://github.com/maaz-io/LinkedIn-Scrapper)**<br><sub>AI-powered lead extraction</sub> |
+
+#### 🏥 Personal & Healthcare Apps
+
+|  |  |  |
+|:---:|:---:|:---:|
+| **[Burak](https://github.com/maaz-io/Burak-)**<br><sub>Offline Android voice assistant</sub> | **[Care-Pilot](https://github.com/maaz-io/Care-Pilot)**<br><sub>Family medicine & appointment tracker</sub> | **[ClinKit](https://clinkit.webopslimited.site)**<br><sub>Cloud-based clinic management platform</sub> |
+
+#### 🛍️ Business & E-Commerce Platforms
+
+|  |  |  |
+|:---:|:---:|:---:|
+| **[Kronos Watches](https://github.com/maaz-io/KronosWatches-)**<br><sub>E-commerce with full inventory</sub> | **[BizLedger](http://github.com/maaz-io/BizLedger)**<br><sub>Business finance & ledger management</sub> | **[WebOps Limited](https://github.com/maaz-io/WebOps-Limited)**<br><sub>Web dev studio & AI agent services</sub> |
+
+#### 🎓 Client Websites & Portfolios
+
+|  |  |  |
+|:---:|:---:|:---:|
+| **[MindMonarchs](https://github.com/maaz-io/MindMonarchs)**<br><sub>AI-powered educational platform</sub> | **[Arcwayy](https://github.com/maaz-io/Arcwayy)**<br><sub>Modern home builders website</sub> | **[Portfolio — v1](https://github.com/maaz-io/Portfolio-Maaz)**<br><sub>Personal portfolio website</sub> |
+| **[Portfolio — v2](https://github.com/maaz-io/Portfolio.Maaz)**<br><sub>Personal portfolio, second build</sub> | **[Projects](https://github.com/maaz-io/Projects)**<br><sub>Engineering projects index</sub> | |
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=20&section=header" width="100%"/>
@@ -347,7 +355,7 @@ Exploring:
 
 Open To:
   - Software Engineering Roles
- - Web Developer Roles 
+  - Web Developer Roles
   - AI / ML Developer Roles
   - Full-Stack Freelance Projects
   - Full-Time Roles at product-first companies

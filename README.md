@@ -345,7 +345,8 @@ Exploring:
   - Next.js full-stack applications
 
 Open To:
-  - Software Engineering Internships
+  - Software Engineering Roles
+ - Web Developer Roles 
   - AI / ML Developer Roles
   - Full-Stack Freelance Projects
   - Full-Time Roles at product-first companies

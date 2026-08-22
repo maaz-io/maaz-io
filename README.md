@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:374151,100:1f2937&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=960&lines=Muhammad+Maaz;AI+%26+Full-Stack+Developer;RAG+%26+AI+Agent+Engineer;Freelance+Web+Developer;BS+Artificial+Intelligence+%40+COMSATS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=9CA3AF&center=true&vCenter=true&width=960&lines=Muhammad+Maaz;AI+%26+Full-Stack+Developer;RAG+%26+AI+Agent+Engineer;Freelance+Web+Developer;BS+Artificial+Intelligence+%40+COMSATS" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=900&color=10B981&center=true&vCenter=true&width=700&lines=%F0%9F%9F%A2+Available+for+freelance+work;%F0%9F%93%8D+Based+in+Rawalpindi%2C+Pakistan;%F0%9F%A4%96+Currently+building+AI+agents" alt="Status Typing SVG" />
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/B.S._Artificial_Intelligence-COMSATS-7C3AED?style=flat-square&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/B.S._Artificial_Intelligence-COMSATS-6B7280?style=flat-square&logo=graduation-cap&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Year-First_Year-10B981?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Rawalpindi,_Pakistan-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Rawalpindi,_Pakistan-6B7280?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
 <p>
   <a href="https://maaztech.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live-A78BFA?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Live-9CA3AF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/muhammadmaaz-409704377" target="_blank">
@@ -34,11 +34,11 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=maaz-io&color=7C3AED&style=flat-square&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=maaz-io&color=6B7280&style=flat-square&label=Profile+Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/maaz-io?style=flat-square&color=6366F1&label=Followers"/>
+<img src="https://img.shields.io/github/followers/maaz-io?style=flat-square&color=6B7280&label=Followers"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/maaz-io?style=flat-square&color=A78BFA&label=Stars"/>
+<img src="https://img.shields.io/github/stars/maaz-io?style=flat-square&color=9CA3AF&label=Stars"/>
 
 </div>
 
@@ -55,34 +55,34 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 **Open to:** Software Engineering Internships · AI/ML Developer Roles · Full-Stack Freelance Projects · Full-Time Roles
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=20&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:374151,100:1f2937&height=20&section=header" width="100%"/>
 </div>
 
 ## 🚀 Featured Projects
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=AI+Sales+%26+Support+Agents;E-Commerce+Platforms;Educational+%26+SaaS+Products;Client+Portfolios+%26+Landing+Pages" alt="Category Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1000&color=9CA3AF&center=true&vCenter=true&width=650&lines=AI+Sales+%26+Support+Agents;E-Commerce+Platforms;Educational+%26+SaaS+Products;Client+Portfolios+%26+Landing+Pages" alt="Category Typing SVG" />
 </div>
 
 | Project | Description |
 |---|---|
-| ✧ [Burak](https://github.com/maaz-io/Burak-) | An Android-based personal AI assistant powered by local AI models, designed to perform everyday tasks through natural voice interaction. |
-| 🌐 [WebOps](https://github.com/maaz-io/WebOps-Limited) | Web platform built for a web development company. |
-| ☁️ [ClinKit](https://clinkit.webopslimited.site) | A modern, full-stack cloud-based clinic management platform designed to streamline patient management, appointments, billing, pharmacy inventory, laboratory workflows,. |
-| 🎓 [MindMonarchs](https://github.com/maaz-io/MindMonarchs) | Educational platform website with an integrated AI assistant. |
-| ⌚ [Kronos](https://github.com/maaz-io/KronosWatches-) | E-commerce platform for watches, with full inventory management. |
-| 🌐 [Projects](https://github.com/maaz-io/Projects) | Projects & Engineering Portfolio. |
-| 📞 [Nexus Agent](https://github.com/maaz-io/Nexus-Sales-Outbound-Agent-) | Outbound AI sales agent that handles multiple bulk outbound calls to potential clients. |
-| ☎️ [AquaRestore AI](https://github.com/maaz-io/AquaRestore-AI-) | Inbound AI agent for handling incoming customer calls. |
-| 🩺 [Care-Pilot](https://github.com/maaz-io/Care-Pilot) | A react mobile app for tracking medicines and doctor appointments for your whole family.. |
-| 📊 [BizLedger](http://github.com/maaz-io/BizLedger) |BizLedger — a modern business finance and ledger management platform designed to help businesses organize financial records.|
-| 🏠 [Arcwayy](https://github.com/maaz-io/Arcwayy) | Website for a modern home builders company. |
-| 💼 [Portfolio — v1](https://github.com/maaz-io/Portfolio-Maaz) | Personal portfolio website. |
-| 💼 [Portfolio — v2](https://github.com/maaz-io/Portfolio.Maaz) | Another personal portfolio website build. |
-| 🌐 [LinkedIn Scrapper](https://github.com/maaz-io/LinkedIn-Scrapper) | AI-Powered Lead Extraction Platform. |
+| ✧ [Burak](https://github.com/maaz-io/Burak-) | Offline Android AI assistant with local voice models |
+| 🌐 [WebOps Limited](https://github.com/maaz-io/WebOps-Limited) | Web platform for a web development company |
+| ☁️ [ClinKit](https://clinkit.webopslimited.site) | Cloud-based clinic management platform for patient care |
+| 🎓 [MindMonarchs](https://github.com/maaz-io/MindMonarchs) | Educational platform with an integrated AI assistant |
+| ⌚ [Kronos Watches](https://github.com/maaz-io/KronosWatches-) | E-commerce platform for watches with full inventory |
+| 🌐 [Projects](https://github.com/maaz-io/Projects) | Personal projects & engineering portfolio index |
+| 📞 [Nexus Sales Agent](https://github.com/maaz-io/Nexus-Sales-Outbound-Agent-) | Outbound AI sales agent for bulk calling |
+| ☎️ [AquaRestore Agent](https://github.com/maaz-io/AquaRestore-AI-) | Inbound AI agent for customer support calls |
+| 🩺 [Care-Pilot](https://github.com/maaz-io/Care-Pilot) | Mobile app for family medicine & appointments |
+| 📊 [BizLedger](http://github.com/maaz-io/BizLedger) | Business finance & ledger management platform |
+| 🏠 [Arcwayy](https://github.com/maaz-io/Arcwayy) | Website for a modern home builders company |
+| 💼 [Portfolio — v1](https://github.com/maaz-io/Portfolio-Maaz) | Personal portfolio website |
+| 💼 [Portfolio — v2](https://github.com/maaz-io/Portfolio.Maaz) | Another personal portfolio website build |
+| 🌐 [LinkedIn Scrapper](https://github.com/maaz-io/LinkedIn-Scrapper) | AI-powered lead extraction platform |
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=20&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:374151,100:1f2937&height=20&section=header" width="100%"/>
 </div>
 
 ## Tech Stack
@@ -125,7 +125,7 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 | **Cybersecurity** | Certified | Cisco Networking Academy — Intro to Cybersecurity |
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=20&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:374151,100:1f2937&height=20&section=header" width="100%"/>
 </div>
 
 ## Featured Case Studies
@@ -184,7 +184,7 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 </details>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=20&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:374151,100:1f2937&height=20&section=header" width="100%"/>
 </div>
 
 ## Experience
@@ -241,7 +241,7 @@ Building and shipping production products for clients across web, 3D, and AI dom
 - Developed rigorous analytical and evidence-based reasoning skills through a demanding science curriculum
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=20&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:374151,100:1f2937&height=20&section=header" width="100%"/>
 </div>
 
 ## Certifications
@@ -282,7 +282,7 @@ Building and shipping production products for clients across web, 3D, and AI dom
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=20&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:374151,100:1f2937&height=20&section=header" width="100%"/>
 </div>
 
 ## GitHub Analytics
@@ -347,21 +347,21 @@ Exploring:
 
 Open To:
   - Software Engineering Roles
- - Web Developer Roles 
+  - Web Developer Roles
   - AI / ML Developer Roles
   - Full-Stack Freelance Projects
   - Full-Time Roles at product-first companies
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=20&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:374151,100:1f2937&height=20&section=header" width="100%"/>
 </div>
 
 ## Connect
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=800&color=6366F1&center=true&vCenter=true&width=550&lines=Ask+me+about+AI+Agents;Ask+me+about+RAG+Pipelines;Ask+me+about+Next.js;Let%27s+build+something!" alt="Ask Me Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=800&color=6B7280&center=true&vCenter=true&width=550&lines=Ask+me+about+AI+Agents;Ask+me+about+RAG+Pipelines;Ask+me+about+Next.js;Let%27s+build+something!" alt="Ask Me Typing SVG" />
 
 <br/><br/>
 
@@ -378,7 +378,7 @@ Open To:
 </a>
 &nbsp;
 <a href="https://maaztech.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-maaztech.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-maaztech.vercel.app-6B7280?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -389,6 +389,6 @@ Open To:
 
 *Building at the intersection of AI, full-stack engineering, and immersive web.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:374151,100:111827&height=120&section=footer" width="100%"/>
 
 </div>

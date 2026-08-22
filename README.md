@@ -66,20 +66,20 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 
 | Project | Description |
 |---|---|
-| ✧ [Burak](https://github.com/maaz-io/Burak-) | Offline Android AI assistant with local voice models |
-| 🌐 [WebOps Limited](https://github.com/maaz-io/WebOps-Limited) | Web platform for a web development company |
-| ☁️ [ClinKit](https://clinkit.webopslimited.site) | Cloud-based clinic management platform for patient care |
-| 🎓 [MindMonarchs](https://github.com/maaz-io/MindMonarchs) | Educational platform with an integrated AI assistant |
-| ⌚ [Kronos Watches](https://github.com/maaz-io/KronosWatches-) | E-commerce platform for watches with full inventory |
-| 🌐 [Projects](https://github.com/maaz-io/Projects) | Personal projects & engineering portfolio index |
-| 📞 [Nexus Sales Agent](https://github.com/maaz-io/Nexus-Sales-Outbound-Agent-) | Outbound AI sales agent for bulk calling |
-| ☎️ [AquaRestore Agent](https://github.com/maaz-io/AquaRestore-AI-) | Inbound AI agent for customer support calls |
-| 🩺 [Care-Pilot](https://github.com/maaz-io/Care-Pilot) | Mobile app for family medicine & appointments |
-| 📊 [BizLedger](http://github.com/maaz-io/BizLedger) | Business finance & ledger management platform |
-| 🏠 [Arcwayy](https://github.com/maaz-io/Arcwayy) | Website for a modern home builders company |
-| 💼 [Portfolio — v1](https://github.com/maaz-io/Portfolio-Maaz) | Personal portfolio website |
-| 💼 [Portfolio — v2](https://github.com/maaz-io/Portfolio.Maaz) | Another personal portfolio website build |
-| 🌐 [LinkedIn Scrapper](https://github.com/maaz-io/LinkedIn-Scrapper) | AI-powered lead extraction platform |
+| ✧ [Burak](https://github.com/maaz-io/Burak-) | An Android-based personal AI assistant powered by local AI models, designed to perform everyday tasks through natural voice interaction. |
+| 🌐 [WebOps Limited](https://github.com/maaz-io/WebOps-Limited) | Web platform built for a web development company. |
+| ☁️ [ClinKit](https://clinkit.webopslimited.site) | A modern, full-stack cloud-based clinic management platform designed to streamline patient management, appointments, billing, pharmacy inventory, laboratory workflows,. |
+| 🎓 [MindMonarchs](https://github.com/maaz-io/MindMonarchs) | Educational platform website with an integrated AI assistant. |
+| ⌚ [Kronos Watches](https://github.com/maaz-io/KronosWatches-) | E-commerce platform for watches, with full inventory management. |
+| 🌐 [Projects](https://github.com/maaz-io/Projects) | Projects & Engineering Portfolio. |
+| 📞 [Nexus Sales Agent](https://github.com/maaz-io/Nexus-Sales-Outbound-Agent-) | Outbound AI sales agent that handles multiple bulk outbound calls to potential clients. |
+| ☎️ [AquaRestore Agent](https://github.com/maaz-io/AquaRestore-AI-) | Inbound AI agent for handling incoming customer calls. |
+| 🩺 [Care-Pilot](https://github.com/maaz-io/Care-Pilot) | A react mobile app for tracking medicines and doctor appointments for your whole family.. |
+| 📊 [BizLedger](http://github.com/maaz-io/BizLedger) |BizLedger — a modern business finance and ledger management platform designed to help businesses organize financial records.|
+| 🏠 [Arcwayy](https://github.com/maaz-io/Arcwayy) | Website for a modern home builders company. |
+| 💼 [Portfolio — v1](https://github.com/maaz-io/Portfolio-Maaz) | Personal portfolio website. |
+| 💼 [Portfolio — v2](https://github.com/maaz-io/Portfolio.Maaz) | Another personal portfolio website build. |
+| 🌐 [LinkedIn Scrapper](https://github.com/maaz-io/LinkedIn-Scrapper) | AI-Powered Lead Extraction Platform. |
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=20&section=header" width="100%"/>
@@ -347,7 +347,7 @@ Exploring:
 
 Open To:
   - Software Engineering Roles
-  - Web Developer Roles
+ - Web Developer Roles 
   - AI / ML Developer Roles
   - Full-Stack Freelance Projects
   - Full-Time Roles at product-first companies

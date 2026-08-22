@@ -2,9 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=B8B2A4&center=true&vCenter=true&width=960&lines=Muhammad+Maaz;AI+%26+Full-Stack+Developer;RAG+%26+AI+Agent+Engineer;Freelance+Web+Developer;BS+Artificial+Intelligence+%40+COMSATS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=32&duration=2800&pause=1200&color=B8B2A4&center=true&vCenter=true&width=960&lines=Muhammad+Maaz;AI+%26+Full-Stack+Developer;RAG+%26+AI+Agent+Engineer;Freelance+Web+Developer;BS+Artificial+Intelligence+%40+COMSATS" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=900&color=10B981&center=true&vCenter=true&width=700&lines=%F0%9F%9F%A2+Available+for+freelance+work;%F0%9F%93%8D+Based+in+Rawalpindi%2C+Pakistan;%F0%9F%A4%96+Currently+building+AI+agents" alt="Status Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&duration=2200&pause=900&color=10B981&center=true&vCenter=true&width=700&lines=%F0%9F%9F%A2+Available+for+freelance+work;%F0%9F%93%8D+Based+in+Rawalpindi%2C+Pakistan;%F0%9F%A4%96+Currently+building+AI+agents" alt="Status Typing SVG" />
 
 <br/>
 
@@ -61,7 +61,7 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 ## 🚀 Featured Projects
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1000&color=B8B2A4&center=true&vCenter=true&width=650&lines=AI+Sales+%26+Support+Agents;E-Commerce+Platforms;Educational+%26+SaaS+Products;Client+Portfolios+%26+Landing+Pages" alt="Category Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=15&duration=2500&pause=1000&color=B8B2A4&center=true&vCenter=true&width=650&lines=AI+Sales+%26+Support+Agents;E-Commerce+Platforms;Educational+%26+SaaS+Products;Client+Portfolios+%26+Landing+Pages" alt="Category Typing SVG" />
 </div>
 
 | Project | Description |
@@ -361,7 +361,7 @@ Open To:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=800&color=8C8678&center=true&vCenter=true&width=550&lines=Ask+me+about+AI+Agents;Ask+me+about+RAG+Pipelines;Ask+me+about+Next.js;Let%27s+build+something!" alt="Ask Me Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=16&duration=2000&pause=800&color=8C8678&center=true&vCenter=true&width=550&lines=Ask+me+about+AI+Agents;Ask+me+about+RAG+Pipelines;Ask+me+about+Next.js;Let%27s+build+something!" alt="Ask Me Typing SVG" />
 
 <br/><br/>
 

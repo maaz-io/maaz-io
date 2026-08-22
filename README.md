@@ -67,13 +67,13 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 | Project | Description |
 |---|---|
 | ✧ [Burak](https://github.com/maaz-io/Burak-) | An Android-based personal AI assistant powered by local AI models, designed to perform everyday tasks through natural voice interaction. |
-| 🌐 [WebOps Limited](https://github.com/maaz-io/WebOps-Limited) | Web platform built for a web development company. |
+| 🌐 [WebOps(https://github.com/maaz-io/WebOps-Limited) | Web platform built for a web development company. |
 | ☁️ [ClinKit](https://clinkit.webopslimited.site) | A modern, full-stack cloud-based clinic management platform designed to streamline patient management, appointments, billing, pharmacy inventory, laboratory workflows,. |
 | 🎓 [MindMonarchs](https://github.com/maaz-io/MindMonarchs) | Educational platform website with an integrated AI assistant. |
-| ⌚ [Kronos Watches](https://github.com/maaz-io/KronosWatches-) | E-commerce platform for watches, with full inventory management. |
+| ⌚ [Kronos](https://github.com/maaz-io/KronosWatches-) | E-commerce platform for watches, with full inventory management. |
 | 🌐 [Projects](https://github.com/maaz-io/Projects) | Projects & Engineering Portfolio. |
-| 📞 [Nexus Sales Agent](https://github.com/maaz-io/Nexus-Sales-Outbound-Agent-) | Outbound AI sales agent that handles multiple bulk outbound calls to potential clients. |
-| ☎️ [AquaRestore Agent](https://github.com/maaz-io/AquaRestore-AI-) | Inbound AI agent for handling incoming customer calls. |
+| 📞 [Nexus Agent](https://github.com/maaz-io/Nexus-Sales-Outbound-Agent-) | Outbound AI sales agent that handles multiple bulk outbound calls to potential clients. |
+| ☎️ [AquaRestore AI](https://github.com/maaz-io/AquaRestore-AI-) | Inbound AI agent for handling incoming customer calls. |
 | 🩺 [Care-Pilot](https://github.com/maaz-io/Care-Pilot) | A react mobile app for tracking medicines and doctor appointments for your whole family.. |
 | 📊 [BizLedger](http://github.com/maaz-io/BizLedger) |BizLedger — a modern business finance and ledger management platform designed to help businesses organize financial records.|
 | 🏠 [Arcwayy](https://github.com/maaz-io/Arcwayy) | Website for a modern home builders company. |

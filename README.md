@@ -1,24 +1,24 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A2419,50:5C4F3D,100:3D3428&height=140&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=D4C5A9&center=true&vCenter=true&width=960&lines=Muhammad+Maaz;AI+%26+Full-Stack+Developer;RAG+%26+AI+Agent+Engineer;Freelance+Web+Developer;BS+Artificial+Intelligence+%40+COMSATS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=32&duration=2800&pause=1200&color=B8B2A4&center=true&vCenter=true&width=960&lines=Muhammad+Maaz;AI+%26+Full-Stack+Developer;RAG+%26+AI+Agent+Engineer;Freelance+Web+Developer;BS+Artificial+Intelligence+%40+COMSATS" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2200&pause=900&color=10B981&center=true&vCenter=true&width=700&lines=%F0%9F%9F%A2+Available+for+freelance+work;%F0%9F%93%8D+Based+in+Rawalpindi%2C+Pakistan;%F0%9F%A4%96+Currently+building+AI+agents" alt="Status Typing SVG" />
 
 <br/>
 
 <p>
-  <img src="https://img.shields.io/badge/B.S._Artificial_Intelligence-COMSATS-A69374?style=flat-square&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/B.S._Artificial_Intelligence-COMSATS-8C8678?style=flat-square&logo=graduation-cap&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Year-First_Year-10B981?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Location-Rawalpindi,_Pakistan-A69374?style=flat-square&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-Rawalpindi,_Pakistan-8C8678?style=flat-square&logo=googlemaps&logoColor=white"/>
 </p>
 
 <p>
   <a href="https://maaztech.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Live-D4C5A9?style=for-the-badge&logo=vercel&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Live-B8B2A4?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/muhammadmaaz-409704377" target="_blank">
@@ -34,11 +34,11 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=maaz-io&color=A69374&style=flat-square&label=Profile+Views"/>
+<img src="https://komarev.com/ghpvc/?username=maaz-io&color=8C8678&style=flat-square&label=Profile+Views"/>
 &nbsp;
-<img src="https://img.shields.io/github/followers/maaz-io?style=flat-square&color=A69374&label=Followers"/>
+<img src="https://img.shields.io/github/followers/maaz-io?style=flat-square&color=8C8678&label=Followers"/>
 &nbsp;
-<img src="https://img.shields.io/github/stars/maaz-io?style=flat-square&color=D4C5A9&label=Stars"/>
+<img src="https://img.shields.io/github/stars/maaz-io?style=flat-square&color=B8B2A4&label=Stars"/>
 
 </div>
 
@@ -55,13 +55,13 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 **Open to:** Software Engineering Internships · AI/ML Developer Roles · Full-Stack Freelance Projects · Full-Time Roles
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A2419,50:5C4F3D,100:3D3428&height=20&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=20&section=header" width="100%"/>
 </div>
 
 ## 🚀 Featured Projects
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1000&color=D4C5A9&center=true&vCenter=true&width=650&lines=AI+Sales+%26+Support+Agents;E-Commerce+Platforms;Educational+%26+SaaS+Products;Client+Portfolios+%26+Landing+Pages" alt="Category Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2500&pause=1000&color=B8B2A4&center=true&vCenter=true&width=650&lines=AI+Sales+%26+Support+Agents;E-Commerce+Platforms;Educational+%26+SaaS+Products;Client+Portfolios+%26+Landing+Pages" alt="Category Typing SVG" />
 </div>
 
 | Project | Description |
@@ -82,7 +82,7 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 | 🌐 [LinkedIn Scrapper](https://github.com/maaz-io/LinkedIn-Scrapper) | AI-powered lead extraction platform |
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A2419,50:5C4F3D,100:3D3428&height=20&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=20&section=header" width="100%"/>
 </div>
 
 ## Tech Stack
@@ -125,7 +125,7 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 | **Cybersecurity** | Certified | Cisco Networking Academy — Intro to Cybersecurity |
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A2419,50:5C4F3D,100:3D3428&height=20&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=20&section=header" width="100%"/>
 </div>
 
 ## Featured Case Studies
@@ -184,7 +184,7 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 </details>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A2419,50:5C4F3D,100:3D3428&height=20&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=20&section=header" width="100%"/>
 </div>
 
 ## Experience
@@ -241,7 +241,7 @@ Building and shipping production products for clients across web, 3D, and AI dom
 - Developed rigorous analytical and evidence-based reasoning skills through a demanding science curriculum
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A2419,50:5C4F3D,100:3D3428&height=20&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=20&section=header" width="100%"/>
 </div>
 
 ## Certifications
@@ -282,7 +282,7 @@ Building and shipping production products for clients across web, 3D, and AI dom
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A2419,50:5C4F3D,100:3D3428&height=20&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=20&section=header" width="100%"/>
 </div>
 
 ## GitHub Analytics
@@ -354,14 +354,14 @@ Open To:
 ```
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2A2419,50:5C4F3D,100:3D3428&height=20&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=20&section=header" width="100%"/>
 </div>
 
 ## Connect
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=800&color=A69374&center=true&vCenter=true&width=550&lines=Ask+me+about+AI+Agents;Ask+me+about+RAG+Pipelines;Ask+me+about+Next.js;Let%27s+build+something!" alt="Ask Me Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2000&pause=800&color=8C8678&center=true&vCenter=true&width=550&lines=Ask+me+about+AI+Agents;Ask+me+about+RAG+Pipelines;Ask+me+about+Next.js;Let%27s+build+something!" alt="Ask Me Typing SVG" />
 
 <br/><br/>
 
@@ -378,7 +378,7 @@ Open To:
 </a>
 &nbsp;
 <a href="https://maaztech.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-maaztech.vercel.app-A69374?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-maaztech.vercel.app-8C8678?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -389,6 +389,6 @@ Open To:
 
 *Building at the intersection of AI, full-stack engineering, and immersive web.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3D3428,50:5C4F3D,100:2A2419&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302D27,50:413D34,100:26251F&height=120&section=footer" width="100%"/>
 
 </div>

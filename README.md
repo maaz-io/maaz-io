@@ -104,6 +104,18 @@ My work spans client-facing web products, autonomous AI agent systems, and local
       <td>🌐 <a href="https://github.com/maaz-io/WebOps-Limited"><b>WebOps Limited</b></a></td>
       <td>Full company web platform built for a web development agency — marketing site, service pages, and client-facing project showcase.</td>
     </tr>
+    <tr>
+      <td>🌐 <a href="https://github.com/maaz-io/LinkedIn-Scrapper"><b>LinkedIn Scrapper</b></a></td>
+      <td>AI-powered platform for automated lead extraction from LinkedIn profiles — scrapes, parses, and structures profile data for outreach and sales pipelines.</td>
+    </tr>
+    <tr>
+      <td>💼 <a href="https://github.com/maaz-io/Portfolio-Maaz"><b>Portfolio — v1</b></a></td>
+      <td>First build of a personal portfolio website — showcases early projects, skills, and contact info with a clean, static layout.</td>
+    </tr>
+    <tr>
+      <td>💼 <a href="https://github.com/maaz-io/Portfolio.Maaz"><b>Portfolio — v2</b></a></td>
+      <td>Second, redesigned personal portfolio website — refreshed UI, improved project showcase, and better performance over v1.</td>
+    </tr>
   </tbody>
 </table>
 
@@ -114,16 +126,6 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 ## 📱 More Projects
 
 <details>
-<summary><b>AI & Agent Projects</b></summary>
-<br/>
-
-| Project | Description |
-|---|---|
-| 🌐 [LinkedIn Scrapper](https://github.com/maaz-io/LinkedIn-Scrapper) | AI-powered platform for automated lead extraction from LinkedIn profiles. |
-
-</details>
-
-<details>
 <summary><b>Web & E-Commerce Projects</b></summary>
 <br/>
 
@@ -131,17 +133,6 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 |---|---|
 | 🏥 [Clinic Management Cloud](https://github.com/maaz-io/Care-Pilot) | Scalable cloud-based clinic management system for appointments and patient records. |
 | 🏠 [Arcwayy](https://github.com/maaz-io/Arcwayy) | Website for a modern home builders company. |
-
-</details>
-
-<details>
-<summary><b>Portfolio Projects</b></summary>
-<br/>
-
-| Project | Description |
-|---|---|
-| 💼 [Portfolio — v1](https://github.com/maaz-io/Portfolio-Maaz) | First build of a personal portfolio website. |
-| 💼 [Portfolio — v2](https://github.com/maaz-io/Portfolio.Maaz) | Second, redesigned personal portfolio website. |
 
 </details>
 

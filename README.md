@@ -116,6 +116,10 @@ My work spans client-facing web products, autonomous AI agent systems, and local
       <td>💼 <a href="https://github.com/maaz-io/Portfolio.Maaz"><b>Portfolio — v2</b></a></td>
       <td>Second, redesigned personal portfolio website — refreshed UI, improved project showcase, and better performance over v1.</td>
     </tr>
+    <tr>
+      <td>🎓 <a href="https://github.com/maaz-io/Admitra"><b>Admitra</b></a></td>
+      <td>AI-powered platform that helps Pakistani students discover, compare, and evaluate university programs — grounded in a self-built, autonomously verified dataset, not LLM guesses.</td>
+    </tr>
   </tbody>
 </table>
 

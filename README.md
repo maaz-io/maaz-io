@@ -64,22 +64,27 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=15&duration=2500&pause=1000&color=B8B2A4&center=true&vCenter=true&width=650&lines=AI+Sales+%26+Support+Agents;E-Commerce+Platforms;Educational+%26+SaaS+Products;Client+Portfolios+%26+Landing+Pages" alt="Category Typing SVG" />
 </div>
 
-| Project | Description |
-|---|---|
-| 🤖 [Burak](https://github.com/maaz-io/Burak-) | Offline Android AI assistant powered by local voice models. |
-| 🌐 [WebOps Limited](https://github.com/maaz-io/WebOps-Limited) | Web platform built for a web development company. |
-| ☁️ [ClinKit](https://clinkit.webopslimited.site) | Cloud-based clinic management platform for patient care. |
-| 🎓 [MindMonarchs](https://github.com/maaz-io/MindMonarchs) | Educational platform with an integrated AI assistant. |
-| ⌚ [Kronos Watches](https://github.com/maaz-io/KronosWatches-) | E-commerce platform for watches with full inventory management. |
-| 🌐 [Projects](https://github.com/maaz-io/Projects) | Index of personal projects and engineering portfolio work. |
-| 📞 [Nexus Sales Agent](https://github.com/maaz-io/Nexus-Sales-Outbound-Agent-) | Outbound AI sales agent built for bulk client calling. |
-| ☎️ [AquaRestore Agent](https://github.com/maaz-io/AquaRestore-AI-) | Inbound AI agent that handles customer support calls. |
-| 🩺 [Care-Pilot](https://github.com/maaz-io/Care-Pilot) | Mobile app for family medicine and appointment scheduling. |
-| 📊 [BizLedger](http://github.com/maaz-io/BizLedger) | Business finance and ledger management platform. |
-| 🏠 [Arcwayy](https://github.com/maaz-io/Arcwayy) | Website for a modern home builders company. |
-| 💼 [Portfolio — v1](https://github.com/maaz-io/Portfolio-Maaz) | First build of a personal portfolio website. |
-| 💼 [Portfolio — v2](https://github.com/maaz-io/Portfolio.Maaz) | Second, redesigned personal portfolio website. |
-| 🌐 [LinkedIn Scrapper](https://github.com/maaz-io/LinkedIn-Scrapper) | AI-powered platform for automated lead extraction. |
+<table width="100%">
+<colgroup>
+  <col style="width:30%">
+  <col style="width:70%">
+</colgroup>
+<tr><th align="left">Project</th><th align="left">Description</th></tr>
+<tr><td>🤖 <a href="https://github.com/maaz-io/Burak-">Burak</a></td><td>Offline Android AI assistant powered by local voice models.</td></tr>
+<tr><td>🌐 <a href="https://github.com/maaz-io/WebOps-Limited">WebOps Limited</a></td><td>Web platform built for a web development company.</td></tr>
+<tr><td>☁️ <a href="https://clinkit.webopslimited.site">ClinKit</a></td><td>Cloud-based clinic management platform for patient care.</td></tr>
+<tr><td>🎓 <a href="https://github.com/maaz-io/MindMonarchs">MindMonarchs</a></td><td>Educational platform with an integrated AI assistant.</td></tr>
+<tr><td>⌚ <a href="https://github.com/maaz-io/KronosWatches-">Kronos Watches</a></td><td>E-commerce platform for watches with full inventory management.</td></tr>
+<tr><td>🌐 <a href="https://github.com/maaz-io/Projects">Projects</a></td><td>Index of personal projects and engineering portfolio work.</td></tr>
+<tr><td>📞 <a href="https://github.com/maaz-io/Nexus-Sales-Outbound-Agent-">Nexus Sales Agent</a></td><td>Outbound AI sales agent built for bulk client calling.</td></tr>
+<tr><td>☎️ <a href="https://github.com/maaz-io/AquaRestore-AI-">AquaRestore Agent</a></td><td>Inbound AI agent that handles customer support calls.</td></tr>
+<tr><td>🩺 <a href="https://github.com/maaz-io/Care-Pilot">Care-Pilot</a></td><td>Mobile app for family medicine and appointment scheduling.</td></tr>
+<tr><td>📊 <a href="http://github.com/maaz-io/BizLedger">BizLedger</a></td><td>Business finance and ledger management platform.</td></tr>
+<tr><td>🏠 <a href="https://github.com/maaz-io/Arcwayy">Arcwayy</a></td><td>Website for a modern home builders company.</td></tr>
+<tr><td>💼 <a href="https://github.com/maaz-io/Portfolio-Maaz">Portfolio — v1</a></td><td>First build of a personal portfolio website.</td></tr>
+<tr><td>💼 <a href="https://github.com/maaz-io/Portfolio.Maaz">Portfolio — v2</a></td><td>Second, redesigned personal portfolio website.</td></tr>
+<tr><td>🌐 <a href="https://github.com/maaz-io/LinkedIn-Scrapper">LinkedIn Scrapper</a></td><td>AI-powered platform for automated lead extraction.</td></tr>
+</table>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=20&section=header" width="100%"/>

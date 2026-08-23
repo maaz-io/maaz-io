@@ -155,31 +155,47 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 **Artificial Intelligence & ML**
 
 <p>
-  <img src="https://img.shields.io/badge/RAG_Pipelines-1BA0D7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LLMs-1BA0D7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AI_Agents-1BA0D7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangChain-1BA0D7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/LangGraph-1BA0D7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/CrewAI-1BA0D7?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Prompt_Engineering-1BA0D7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Machine_Learning-1BA0D7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep_Learning-1BA0D7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative_AI-1BA0D7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-1BA0D7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agentic_AI-1BA0D7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer_Vision-1BA0D7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-1BA0D7?style=for-the-badge"/>
 </p>
 
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-**Frameworks & Tools**
+**Frontend & 3D**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,nodejs,express&theme=dark"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white"/>
 </p>
 
-**Developer Tools & Deployment**
+**Backend & Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker&theme=dark"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
+
+**AI / ML & Tooling**
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 <div align="center">

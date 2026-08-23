@@ -44,154 +44,103 @@
 
 <br/>
 
-About
+---
 
-I am a Artificial Intelligence undergraduate at COMSATS and a Freelance AI & Full-Stack Developer with approximately one year of hands-on experience building and deploying production-grade systems. I work across the full spectrum — from high-conversion landing pages to immersive 3D animated experiences — and independently engineer RAG-based local AI analysis models.
+## About
+
+I am a **Artificial Intelligence undergraduate at COMSATS** and a **Freelance AI & Full-Stack Developer** with approximately one year of hands-on experience building and deploying production-grade systems. I work across the full spectrum — from high-conversion landing pages to immersive 3D animated experiences — and independently engineer RAG-based local AI analysis models.
 
 My work spans client-facing web products, autonomous AI agent systems, and local LLM pipelines — all built from requirements gathering through to live deployment. I combine strong technical execution with clear client communication to ship things that actually work.
 
-Open to: Software Engineering Internships · AI/ML Developer Roles · Full-Stack Freelance Projects · Full-Time Roles
+**Open to:** Software Engineering Internships · AI/ML Developer Roles · Full-Stack Freelance Projects · Full-Time Roles
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=20&section=header" width="100%"/>
 </div>
 
-🚀 Featured Projects
+## 🚀 Featured Projects
 
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=15&duration=2500&pause=1000&color=B8B2A4&center=true&vCenter=true&width=650&lines=AI+Sales+%26+Support+Agents;E-Commerce+Platforms;Educational+%26+SaaS+Products;Client+Portfolios+%26+Landing+Pages" alt="Category Typing SVG" />
-</div>
-
-<table width="100%">
-<colgroup>
-  <col style="width:30%">
-  <col style="width:70%">
-</colgroup>
-<tr><th align="left">Project</th><th align="left">Description</th></tr>
-<tr><td>🤖 <a href="https://github.com/maaz-io/Burak-">Burak</a></td><td>Offline Android AI assistant powered by local voice models.</td></tr>
-<tr><td>🌐 <a href="https://github.com/maaz-io/WebOps-Limited">WebOps Limited</a></td><td>Web platform built for a web development company.</td></tr>
-<tr><td>☁️ <a href="https://clinkit.webopslimited.site">ClinKit</a></td><td>Cloud-based clinic management platform for patient care.</td></tr>
-<tr><td>🎓 <a href="https://github.com/maaz-io/MindMonarchs">MindMonarchs</a></td><td>Educational platform with an integrated AI assistant.</td></tr>
-<tr><td>⌚ <a href="https://github.com/maaz-io/KronosWatches-">Kronos Watches</a></td><td>E-commerce platform for watches with full inventory management.</td></tr>
-<tr><td>🌐 <a href="https://github.com/maaz-io/Projects">Projects</a></td><td>Index of personal projects and engineering portfolio work.</td></tr>
-<tr><td>📞 <a href="https://github.com/maaz-io/Nexus-Sales-Outbound-Agent-">Nexus Sales Agent</a></td><td>Outbound AI sales agent built for bulk client calling.</td></tr>
-<tr><td>☎️ <a href="https://github.com/maaz-io/AquaRestore-AI-">AquaRestore Agent</a></td><td>Inbound AI agent that handles customer support calls.</td></tr>
-<tr><td>🩺 <a href="https://github.com/maaz-io/Care-Pilot">Care-Pilot</a></td><td>Mobile app for family medicine and appointment scheduling.</td></tr>
-<tr><td>📊 <a href="http://github.com/maaz-io/BizLedger">BizLedger</a></td><td>Business finance and ledger management platform.</td></tr>
-<tr><td>🏠 <a href="https://github.com/maaz-io/Arcwayy">Arcwayy</a></td><td>Website for a modern home builders company.</td></tr>
-<tr><td>💼 <a href="https://github.com/maaz-io/Portfolio-Maaz">Portfolio — v1</a></td><td>First build of a personal portfolio website.</td></tr>
-<tr><td>💼 <a href="https://github.com/maaz-io/Portfolio.Maaz">Portfolio — v2</a></td><td>Second, redesigned personal portfolio website.</td></tr>
-<tr><td>🌐 <a href="https://github.com/maaz-io/LinkedIn-Scrapper">LinkedIn Scrapper</a></td><td>AI-powered platform for automated lead extraction.</td></tr>
-</table>
+| Project | Description |
+|---|---|
+| 🤖 [Burak](https://github.com/maaz-io/Burak-) | Offline Android AI assistant powered by local voice models. |
+| 🌐 [WebOps Limited](https://github.com/maaz-io/WebOps-Limited) | Web platform built for a web development company. |
+| ☁️ [ClinKit](https://clinkit.webopslimited.site) | Cloud-based clinic management platform for patient care. |
+| 🎓 [MindMonarchs](https://github.com/maaz-io/MindMonarchs) | Educational platform with an integrated AI assistant. |
+| ⌚ [Kronos Watches](https://github.com/maaz-io/KronosWatches-) | E-commerce platform for watches with full inventory management. |
+| 🌐 [Projects](https://github.com/maaz-io/Projects) | Index of personal projects and engineering portfolio work. |
+| 📞 [Nexus Sales Agent](https://github.com/maaz-io/Nexus-Sales-Outbound-Agent-) | Outbound AI sales agent built for bulk client calling. |
+| ☎️ [AquaRestore Agent](https://github.com/maaz-io/AquaRestore-AI-) | Inbound AI agent that handles customer support calls. |
+| 🩺 [Care-Pilot](https://github.com/maaz-io/Care-Pilot) | Mobile app for family medicine and appointment scheduling. |
+| 📊 [BizLedger](https://github.com/maaz-io/BizLedger) | Business finance and ledger management platform. |
+| 🏠 [Arcwayy](https://github.com/maaz-io/Arcwayy) | Website for a modern home builders company. |
+| 💼 [Portfolio — v1](https://github.com/maaz-io/Portfolio-Maaz) | First build of a personal portfolio website. |
+| 💼 [Portfolio — v2](https://github.com/maaz-io/Portfolio.Maaz) | Second, redesigned personal portfolio website. |
+| 🌐 [LinkedIn Scrapper](https://github.com/maaz-io/LinkedIn-Scrapper) | AI-powered platform for automated lead extraction. |
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=20&section=header" width="100%"/>
 </div>
 
-Tech Stack
+## Tech Stack
 
-Languages
+### Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark"/>
 </p>
 
-Frontend & 3D
+### Frontend & 3D
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,threejs&theme=dark"/>
 </p>
 
-Backend & Databases
+### Backend & Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
 </p>
 
-AI / ML & Tooling
+### AI / ML & Tooling
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker&theme=dark"/>
 </p>
 
-AI / ML Expertise
+---
 
-Domain
+## AI / ML Expertise
 
-Proficiency
-
-Details
-
-RAG Pipelines
-
-Advanced
-
-Local document analysis, vector embeddings, semantic search
-
-LLM Integration
-
-Advanced
-
-LangChain, LangGraph, Ollama, FAISS, LLM Prompting
-
-AI Agents
-
-Experienced
-
-CrewAI, OpenAI API, tool calling, multi-step reasoning
-
-Prompt Engineering
-
-Advanced
-
-Multi-modal AI, chatbot workflow automation
-
-Generative AI
-
-Certified
-
-Cisco Networking Academy — Modern AI & Generative AI
-
-Cybersecurity
-
-Certified
-
-Cisco Networking Academy — Intro to Cybersecurity
+| Domain | Proficiency | Details |
+|---|---|---|
+| **RAG Pipelines** | Advanced | Local document analysis, vector embeddings, semantic search |
+| **LLM Integration** | Advanced | LangChain, LangGraph, Ollama, FAISS, LLM Prompting |
+| **AI Agents** | Experienced | CrewAI, OpenAI API, tool calling, multi-step reasoning |
+| **Prompt Engineering** | Advanced | Multi-modal AI, chatbot workflow automation |
+| **Generative AI** | Certified | Cisco Networking Academy — Modern AI & Generative AI |
+| **Cybersecurity** | Certified | Cisco Networking Academy — Intro to Cybersecurity |
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=20&section=header" width="100%"/>
 </div>
 
-Featured Case Studies
+## Featured Case Studies
 
 <details>
 <summary><b>3D Animated Client Website — Immersive Web Experience</b></summary>
 
 <br/>
 
-Production-ready 3D animated website for a client, built with smooth WebGL rendering and scroll-triggered animations.
+> Production-ready 3D animated website for a client, built with smooth WebGL rendering and scroll-triggered animations.
 
-Attribute
+| Attribute | Detail |
+|---|---|
+| **Stack** | Three.js · GSAP · HTML/CSS · JavaScript |
+| **Delivery** | Client project — live in production |
+| **Performance** | Delivered within client-defined timeline |
+| **Impact** | Measurable improvement in user engagement vs previous static site |
 
-Detail
-
-Stack
-
-Three.js · GSAP · HTML/CSS · JavaScript
-
-Delivery
-
-Client project — live in production
-
-Performance
-
-Delivered within client-defined timeline
-
-Impact
-
-Measurable improvement in user engagement vs previous static site
-
-What it does: Delivers a fully immersive browser experience using WebGL-powered 3D rendering and scroll-driven animations. Built end-to-end from client brief to deployment, focused on visual storytelling and engagement.
+**What it does:** Delivers a fully immersive browser experience using WebGL-powered 3D rendering and scroll-driven animations. Built end-to-end from client brief to deployment, focused on visual storytelling and engagement.
 
 </details>
 
@@ -200,29 +149,16 @@ What it does: Delivers a fully immersive browser experience using WebGL-powered 
 
 <br/>
 
-Fully local Retrieval-Augmented Generation pipeline enabling clients to query private document collections without any data leaving their machine.
+> Fully local Retrieval-Augmented Generation pipeline enabling clients to query private document collections without any data leaving their machine.
 
-Attribute
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python · LangChain · Ollama · FAISS · LLM |
+| **Privacy** | 100% local — no external API calls |
+| **Scale** | Vector embeddings over large document collections |
+| **Performance** | Sub-second response latency on standard hardware |
 
-Detail
-
-Stack
-
-Python · LangChain · Ollama · FAISS · LLM
-
-Privacy
-
-100% local — no external API calls
-
-Scale
-
-Vector embeddings over large document collections
-
-Performance
-
-Sub-second response latency on standard hardware
-
-What it does: Parses and indexes private documents into a local vector store, then runs semantic search and LLM-powered Q&A entirely on-device. Context-accurate answers on test queries with no cloud dependency.
+**What it does:** Parses and indexes private documents into a local vector store, then runs semantic search and LLM-powered Q&A entirely on-device. Context-accurate answers on test queries with no cloud dependency.
 
 </details>
 
@@ -231,25 +167,15 @@ What it does: Parses and indexes private documents into a local vector store, th
 
 <br/>
 
-Multi-agent orchestration system that executes research, summarization, and reporting workflows autonomously.
+> Multi-agent orchestration system that executes research, summarization, and reporting workflows autonomously.
 
-Attribute
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python · CrewAI / LangGraph · OpenAI API · Tool Calling |
+| **Efficiency** | Significant reduction in manual task time per cycle |
+| **Reliability** | Coherent multi-step reasoning across sequential actions |
 
-Detail
-
-Stack
-
-Python · CrewAI / LangGraph · OpenAI API · Tool Calling
-
-Efficiency
-
-Significant reduction in manual task time per cycle
-
-Reliability
-
-Coherent multi-step reasoning across sequential actions
-
-What it does: Coordinates multiple specialized AI agents through a structured pipeline. Each agent handles a defined role — research, synthesis, output — with tool-calling and shared memory ensuring coherent end-to-end execution.
+**What it does:** Coordinates multiple specialized AI agents through a structured pipeline. Each agent handles a defined role — research, synthesis, output — with tool-calling and shared memory ensuring coherent end-to-end execution.
 
 </details>
 
@@ -257,115 +183,97 @@ What it does: Coordinates multiple specialized AI agents through a structured pi
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=20&section=header" width="100%"/>
 </div>
 
-Experience
+## Experience
 
-Software Engineering & AI Intern — N5S Solutions
+### Software Engineering & AI Intern — N5S Solutions
 
-Lahore, Pakistan (Remote) · Present
+`Lahore, Pakistan (Remote) · Present`
 
 Remote internship focused on software engineering and applied AI development.
 
-Built the Nexus Sales Agent project during this internship — an outbound AI sales agent handling bulk outbound calls to potential clients
+- Built the **Nexus Sales Agent** project during this internship — an outbound AI sales agent handling bulk outbound calls to potential clients
+- Currently working on N5S Solutions' own company website
 
-Currently working on N5S Solutions' own company website
+`Python` `AI Agents` `Full-Stack Development`
 
-Python AI Agents Full-Stack Development
+---
 
-Freelance Web & AI Developer — Independent
+### Freelance Web & AI Developer — Independent
 
-2025 – Present · Remote, Pakistan
+`2025 – Present · Remote, Pakistan`
 
 Building and shipping production products for clients across web, 3D, and AI domains. Full ownership of every engagement — from scoping and design to development and live deployment.
 
-Scope of work:
+**Scope of work:**
+- Engineered and deployed client-facing websites: static landing pages, dynamic multi-page apps, and 3D animated interactive experiences
+- Architected and shipped RAG-based local AI analysis models enabling private document querying with no cloud dependency
+- Built and configured autonomous AI agents executing multi-step research, summarization, and reporting workflows
+- Managed full end-to-end project delivery across all client engagements
 
-Engineered and deployed client-facing websites: static landing pages, dynamic multi-page apps, and 3D animated interactive experiences
+`Python` `JavaScript` `React` `Next.js` `Three.js` `LangChain` `CrewAI` `Ollama` `FAISS` `Node.js` `Vercel`
 
-Architected and shipped RAG-based local AI analysis models enabling private document querying with no cloud dependency
+---
 
-Built and configured autonomous AI agents executing multi-step research, summarization, and reporting workflows
+## Education
 
-Managed full end-to-end project delivery across all client engagements
+### COMSATS University Islamabad
 
-Python JavaScript React Next.js Three.js LangChain CrewAI Ollama FAISS Node.js Vercel
+`2026 – Present · Pakistan`
 
-Education
+**Bachelor of Science — Artificial Intelligence**
 
-COMSATS University Islamabad
+- Pursuing a rigorous four-year program covering AI/ML foundations, data structures, OOP, and systems design
+- Building proficiency in Python, applied AI, and computational thinking through structured foundational coursework
 
-2026 – Present · Pakistan
+---
 
-Bachelor of Science — Artificial Intelligence
+### APSAC Fort Road
 
-Pursuing a rigorous four-year program covering AI/ML foundations, data structures, OOP, and systems design
+`2023 – 2025 · Rawalpindi, Pakistan`
 
-Building proficiency in Python, applied AI, and computational thinking through structured foundational coursework
+**F.Sc Pre-Medical — FBISE**
 
-APSAC Fort Road
-
-2023 – 2025 · Rawalpindi, Pakistan
-
-F.Sc Pre-Medical — FBISE
-
-Passed with distinction in HSSC Annual Examination 2025 — consistent academic excellence across Physics, Chemistry, and Biology
-
-Developed rigorous analytical and evidence-based reasoning skills through a demanding science curriculum
+- Passed with distinction in HSSC Annual Examination 2025 — consistent academic excellence across Physics, Chemistry and Biology
+- Developed rigorous analytical and evidence-based reasoning skills through a demanding science curriculum
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=20&section=header" width="100%"/>
 </div>
 
-Certifications
+## Certifications
 
 <div align="center">
 
-Cisco Networking Academy
+**Cisco Networking Academy**
 
+![Cisco GenAI](https://img.shields.io/badge/Cisco-Introduction_to_Modern_AI_%26_Generative_AI-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+&nbsp;
+![Cisco Cybersecurity](https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
- 
+*Issued: March 2026 · Validated by M/o Federal Educational and Professional Training*
 
+**Forage — Walmart Global Tech**
 
-Issued: March 2026 · Validated by M/o Federal Educational and Professional Training
+![Walmart Forage](https://img.shields.io/badge/Forage-Advanced_Software_Engineering_Job_Simulation-0071CE?style=flat-square&logo=walmart&logoColor=white)
 
-Forage — Walmart Global Tech
-
-
-
-Certificate of Completion · Issued: August 2, 2026
+*Certificate of Completion · Issued: August 2, 2026*
 
 </div>
 
-Skills
+---
+
+## Skills
 
 <div align="center">
 
-Category
-
-Skills
-
-Languages
-
-Python, JavaScript, HTML, CSS, SQL (Basic)
-
-Web Frameworks & Libraries
-
-React, Next.js, Node.js, Express.js, Three.js, GSAP
-
-AI & ML
-
-LangChain, LangGraph, CrewAI, RAG Pipelines, Ollama, FAISS, LLM Prompting, AI Agents
-
-Developer Tools
-
-Git, GitHub, VS Code, Vercel, Netlify, Docker (Basic)
-
-Soft Skills
-
-Client Communication, Project Delivery, Problem-Solving, Stress Management, Active Listening
-
-Languages Spoken
-
-English (Professional), Urdu (Native)
+| Category | Skills |
+|---|---|
+| **Languages** | Python, JavaScript, HTML, CSS, SQL (Basic) |
+| **Web Frameworks & Libraries** | React, Next.js, Node.js, Express.js, Three.js, GSAP |
+| **AI & ML** | LangChain, LangGraph, CrewAI, RAG Pipelines, Ollama, FAISS, LLM Prompting, AI Agents |
+| **Developer Tools** | Git, GitHub, VS Code, Vercel, Netlify, Docker (Basic) |
+| **Soft Skills** | Client Communication, Project Delivery, Problem-Solving, Stress Management, Active Listening |
+| **Languages Spoken** | English (Professional), Urdu (Native) |
 
 </div>
 
@@ -373,7 +281,7 @@ English (Professional), Urdu (Native)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=20&section=header" width="100%"/>
 </div>
 
-GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -387,7 +295,9 @@ GitHub Analytics
 
 </div>
 
-GitHub Trophies
+---
+
+## GitHub Trophies
 
 <div align="center">
 
@@ -395,7 +305,9 @@ GitHub Trophies
 
 </div>
 
-Contribution Activity
+---
+
+## Contribution Activity
 
 <div align="center">
 
@@ -409,8 +321,11 @@ Contribution Activity
 
 </div>
 
-Current Focus
+---
 
+## Current Focus
+
+```yaml
 Learning:
   - System Design & Software Architecture
   - Advanced Backend Engineering
@@ -432,12 +347,13 @@ Open To:
   - AI / ML Developer Roles
   - Full-Stack Freelance Projects
   - Full-Time Roles at product-first companies
+````
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=20&section=header" width="100%"/>
 </div>
 
-Connect
+## Connect
 
 <div align="center">
 
@@ -467,8 +383,12 @@ Connect
 
 <div align="center">
 
-Building at the intersection of AI, full-stack engineering, and immersive web.
+*Building at the intersection of AI, full-stack engineering, and immersive web.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302D27,50:413D34,100:26251F&height=120&section=footer" width="100%"/>
 
 </div>
+```
+
+**Bas isko poora select → copy → apne `README.md` mein paste kar do.**
+Featured Projects ab **proper bordered table** mein rahega, aur typing/category wali beige line nahi hogi.

@@ -48,7 +48,7 @@
 
 ## About
 
-I am a **Artificial Intelligence undergraduate at COMSATS** and a **Freelance AI & Full-Stack Developer** with approximately one year of hands-on experience building and deploying production-grade systems. I work across the full spectrum — from high-conversion landing pages to immersive 3D animated experiences — and independently engineer RAG-based local AI analysis models.
+I am an **Artificial Intelligence undergraduate at COMSATS** and a **Freelance AI & Full-Stack Developer** with approximately one year of hands-on experience building and deploying production-grade systems. I work across the full spectrum — from high-conversion landing pages to immersive 3D animated experiences — and independently engineer RAG-based local AI analysis models.
 
 My work spans client-facing web products, autonomous AI agent systems, and local LLM pipelines — all built from requirements gathering through to live deployment. I combine strong technical execution with clear client communication to ship things that actually work.
 
@@ -58,56 +58,142 @@ My work spans client-facing web products, autonomous AI agent systems, and local
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=20&section=header" width="100%"/>
 </div>
 
-## 🚀 Featured Projects
+## 🧠 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🤖 [Burak](https://github.com/maaz-io/Burak-) | Offline Android AI assistant powered by local voice models. |
-| 🌐 [WebOps Limited](https://github.com/maaz-io/WebOps-Limited) | Web platform built for a web development company. |
-| ☁️ [ClinKit](https://clinkit.webopslimited.site) | Cloud-based clinic management platform for patient care. |
-| 🎓 [MindMonarchs](https://github.com/maaz-io/MindMonarchs) | Educational platform with an integrated AI assistant. |
-| ⌚ [Kronos Watches](https://github.com/maaz-io/KronosWatches-) | E-commerce platform for watches with full inventory management. |
-| 🌐 [Projects](https://github.com/maaz-io/Projects) | Index of personal projects and engineering portfolio work. |
-| 📞 [Nexus Sales Agent](https://github.com/maaz-io/Nexus-Sales-Outbound-Agent-) | Outbound AI sales agent built for bulk client calling. |
-| ☎️ [AquaRestore Agent](https://github.com/maaz-io/AquaRestore-AI-) | Inbound AI agent that handles customer support calls. |
-| 🩺 [Care-Pilot](https://github.com/maaz-io/Care-Pilot) | Mobile app for family medicine and appointment scheduling. |
-| 📊 [BizLedger](https://github.com/maaz-io/BizLedger) | Business finance and ledger management platform. |
-| 🏠 [Arcwayy](https://github.com/maaz-io/Arcwayy) | Website for a modern home builders company. |
-| 💼 [Portfolio — v1](https://github.com/maaz-io/Portfolio-Maaz) | First build of a personal portfolio website. |
-| 💼 [Portfolio — v2](https://github.com/maaz-io/Portfolio.Maaz) | Second, redesigned personal portfolio website. |
-| 🌐 [LinkedIn Scrapper](https://github.com/maaz-io/LinkedIn-Scrapper) | AI-powered platform for automated lead extraction. |
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="26%">Project</th>
+      <th width="74%">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🤖 <a href="https://github.com/maaz-io/Burak-"><b>Burak</b></a></td>
+      <td>Offline Android AI assistant powered by local voice models — handles wake-word detection, speech-to-text, and on-device inference with zero cloud dependency for fully private voice interactions.</td>
+    </tr>
+    <tr>
+      <td>📞 <a href="https://github.com/maaz-io/Nexus-Sales-Outbound-Agent-"><b>Nexus Sales Agent</b></a></td>
+      <td>Outbound AI sales agent built for bulk client calling — automates lead outreach with natural conversation flow, call scheduling, and structured call-outcome logging for sales teams.</td>
+    </tr>
+    <tr>
+      <td>☎️ <a href="https://github.com/maaz-io/AquaRestore-AI-"><b>AquaRestore Agent</b></a></td>
+      <td>Inbound AI voice agent that handles customer support calls end-to-end — answers FAQs, books appointments, and escalates complex queries to a human agent when needed.</td>
+    </tr>
+    <tr>
+      <td>☁️ <a href="https://clinkit.webopslimited.site"><b>ClinKit</b></a></td>
+      <td>Cloud-based clinic management platform for patient care — covers appointment scheduling, patient records, and staff workflows in a single scalable web application.</td>
+    </tr>
+    <tr>
+      <td>🎓 <a href="https://github.com/maaz-io/MindMonarchs"><b>MindMonarchs</b></a></td>
+      <td>Educational platform with an integrated AI assistant — helps students navigate course content and get instant, context-aware answers through a built-in chatbot.</td>
+    </tr>
+    <tr>
+      <td>🩺 <a href="https://github.com/maaz-io/Care-Pilot"><b>Care-Pilot</b></a></td>
+      <td>Mobile app for family medicine and appointment scheduling — lets families track medical history, manage prescriptions, and book doctor visits from one place.</td>
+    </tr>
+    <tr>
+      <td>⌚ <a href="https://github.com/maaz-io/KronosWatches-"><b>Kronos Watches</b></a></td>
+      <td>Full e-commerce platform for watches with complete inventory management — product catalog, cart, checkout, and admin-side stock tracking.</td>
+    </tr>
+    <tr>
+      <td>📊 <a href="https://github.com/maaz-io/BizLedger"><b>BizLedger</b></a></td>
+      <td>Business finance and ledger management platform — tracks income, expenses, and generates financial summaries for small business owners.</td>
+    </tr>
+    <tr>
+      <td>🌐 <a href="https://github.com/maaz-io/WebOps-Limited"><b>WebOps Limited</b></a></td>
+      <td>Full company web platform built for a web development agency — marketing site, service pages, and client-facing project showcase.</td>
+    </tr>
+  </tbody>
+</table>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=20&section=header" width="100%"/>
 </div>
 
-## Tech Stack
+## 📱 More Projects
 
-### Languages
+<details>
+<summary><b>AI & Agent Projects</b></summary>
+<br/>
+
+| Project | Description |
+|---|---|
+| 🌐 [LinkedIn Scrapper](https://github.com/maaz-io/LinkedIn-Scrapper) | AI-powered platform for automated lead extraction from LinkedIn profiles. |
+
+</details>
+
+<details>
+<summary><b>Web & E-Commerce Projects</b></summary>
+<br/>
+
+| Project | Description |
+|---|---|
+| 🏥 [Clinic Management Cloud](https://github.com/maaz-io/Care-Pilot) | Scalable cloud-based clinic management system for appointments and patient records. |
+| 🏠 [Arcwayy](https://github.com/maaz-io/Arcwayy) | Website for a modern home builders company. |
+
+</details>
+
+<details>
+<summary><b>Portfolio Projects</b></summary>
+<br/>
+
+| Project | Description |
+|---|---|
+| 💼 [Portfolio — v1](https://github.com/maaz-io/Portfolio-Maaz) | First build of a personal portfolio website. |
+| 💼 [Portfolio — v2](https://github.com/maaz-io/Portfolio.Maaz) | Second, redesigned personal portfolio website. |
+
+</details>
+
+<details>
+<summary><b>Index & Practice Projects</b></summary>
+<br/>
+
+| Project | Description |
+|---|---|
+| 🌐 [Projects](https://github.com/maaz-io/Projects) | Index of personal projects and engineering portfolio work. |
+
+</details>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=20&section=header" width="100%"/>
+</div>
+
+## 🧰 Tech Stack
+
+**Artificial Intelligence & ML**
+
+<p>
+  <img src="https://img.shields.io/badge/RAG_Pipelines-1BA0D7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LLMs-1BA0D7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI_Agents-1BA0D7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangChain-1BA0D7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/LangGraph-1BA0D7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CrewAI-1BA0D7?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Prompt_Engineering-1BA0D7?style=flat-square"/>
+</p>
+
+**Languages**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark"/>
 </p>
 
-### Frontend & 3D
+**Frameworks & Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,nodejs,express&theme=dark"/>
 </p>
 
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
-</p>
-
-### AI / ML & Tooling
+**Developer Tools & Deployment**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker&theme=dark"/>
 </p>
 
----
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=20&section=header" width="100%"/>
+</div>
 
 ## AI / ML Expertise
 
@@ -347,7 +433,7 @@ Open To:
   - AI / ML Developer Roles
   - Full-Stack Freelance Projects
   - Full-Time Roles at product-first companies
-````
+```
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:26251F,50:413D34,100:302D27&height=20&section=header" width="100%"/>
@@ -363,10 +449,6 @@ Open To:
 
 <a href="mailto:maazz.dev@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-maazz.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="tel:+923364712888">
-  <img src="https://img.shields.io/badge/Phone-+92--336--4712888-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/maaz-io" target="_blank">
@@ -388,7 +470,3 @@ Open To:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:302D27,50:413D34,100:26251F&height=120&section=footer" width="100%"/>
 
 </div>
-```
-
-**Bas isko poora select → copy → apne `README.md` mein paste kar do.**
-Featured Projects ab **proper bordered table** mein rahega, aur typing/category wali beige line nahi hogi.
